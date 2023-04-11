@@ -20,7 +20,7 @@
 #
 # git commit -m "Add mydemo.py"
 
-error: src refspec master does not match any.
+# error: src refspec master does not match any.
 
 print("Hello World")
 print("at sa Universe")
